@@ -1,0 +1,3 @@
+Alıntı Yapılan siteler
+ 1."https://stackoverflow.com/questions/469357/html-text-input-allow-only-numeric-input" 
+2."http://www.oguzhantas.com/javascript/297-javascript-ile-basit-hesaplama-islemleri.html"
